@@ -1,3 +1,14 @@
 div {
   background-color: black;
 }
+
+@media (min-width: 500px) {
+  body {
+    background-color: black;
+  }
+}
+@media (min-width: 1000px) {
+  body {
+    background-color: blue;
+  }
+}
